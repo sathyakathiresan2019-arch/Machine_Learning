@@ -1,0 +1,6 @@
+Builtup_Area_sqft,Cement_Bags,Steel_MT,Sand_Cum,Aggregate_Cum,Brick_Qty,Labour_Cost,Material_Cost,Equipment_Cost,Overhead,Profit_Percentage,GST,Project_Duration_Days,Building_Type_Industrial,Building_Type_PEB,Building_Type_Residential,Floors_G+1,Floors_G+2,Floors_G+3,Foundation_Type_Isolated,Foundation_Type_Pile,Foundation_Type_Raft,Location_Coimbatore,Location_Madurai,Location_Salem,Location_Trichy
+1800,260,9.5,78,70,22000,510000,1540000,98000,170000,12,18,95,0,0,1,1,0,0,1,0,0,0,1,0,0
+6000,820,34.6,245,228,76000,1680000,5780000,325000,650000,15,18,180,0,0,0,0,0,1,0,1,0,0,0,0,0
+2100,295,10.6,88,82,26000,590000,1750000,120000,190000,12,18,105,0,0,1,1,0,0,0,0,0,1,0,0,0
+3800,520,18.4,155,146,47000,1080000,3520000,210000,380000,14,18,145,0,0,0,1,0,0,1,0,0,0,0,0,0
+1600,235,8.6,68,62,18500,420000,1280000,90000,140000,12,18,90,0,0,1,1,0,0,1,0,0,0,0,0,0
